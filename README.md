@@ -1,3 +1,4 @@
+<p>Alan Rezende<p>
 <p align="center">
     <a href="https://bloomui.com" title="BloomUI.com">
         <img src="https://bloomui.s3.us-east-2.amazonaws.com/tokyo-logo.png" alt="Tokyo Black NextJS Typescript Admin Dashboard">
